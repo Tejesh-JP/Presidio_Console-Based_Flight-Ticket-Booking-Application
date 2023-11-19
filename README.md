@@ -40,6 +40,8 @@ I have used Django to implement this console based Flight Ticket Booking Applica
 - **Run the development server:**
   - `python manage.py runserver`
   - Open your browser and go to `<url displayed after running the above code>/admin/`. Log in with the superuser credentials to access the Django admin interface.
+- **Run console based system:**
+    - `python manage.py console_booking`
 
 # Now the application is running in your device
 
