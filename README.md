@@ -65,47 +65,63 @@ with the database or local storage (list or array). Done✅
 - **View Bookings**: Admins should be able to view bookings with the option to filter based on: Flight ID/Flight Name/ Date. Done✅
 
 # Output
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/Start%20the%20server%20and%20console.jpg)
+
+
 ## Start the server and console
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/Start%20the%20server%20and%20console.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/Browser%20Admin%20login.jpg)
+
 ## Browser Admin login
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/Browser%20Admin%20login.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/before%20sign%20up.jpg)
+
 ## before sign up
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/before%20sign%20up.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/after%20signup.jpg)
+
 ## after signup
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/after%20signup.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/login.jpg)
+
 ## login
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/login.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/before%20booking.jpg)
+
 ## before booking
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/before%20booking.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/after%20booking.jpg)
+
 ## after booking
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/after%20booking.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/search%20flight%20flight%20id.jpg)
+
 ## search flight using flight_id
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/search%20flight%20flight%20id.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/search%20flight%20flight%20name.jpg)
+
 ## search flight using flight name
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/search%20flight%20flight%20name.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/search%20flight%20date.jpg)
+
 ## search flight using date
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/search%20flight%20date.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/admin%20login%20%2B%20admin%20menu.jpg)
+
 ## admin login + admin menu
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/admin%20login%20%2B%20admin%20menu.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/before%20add%20flight.jpg)
+
 ## before add flight
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/before%20add%20flight.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/after%20add%20flight.jpg)
+
 ## after add flight
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/after%20add%20flight.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/bookings.jpg)
+
 ## bookings
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/bookings.jpg)
+
 
 ![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/logout%20and%20exit.jpg)
 ## logout and exit
