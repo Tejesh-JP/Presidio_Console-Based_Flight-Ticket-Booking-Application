@@ -64,6 +64,9 @@ with the database or local storage (list or array). Done✅
 - **Add Flights**: Admins should have the ability to add new flights to the system. Done✅
 - **View Bookings**: Admins should be able to view bookings with the option to filter based on: Flight ID/Flight Name/ Date. Done✅
 
+## Console Implementation function definitions are at 
+`flight_booking_project1/flight_booking_app1/management/commands/console_booking.py`
+
 # Output
 
 
