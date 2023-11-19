@@ -123,9 +123,11 @@ with the database or local storage (list or array). Done✅
 ![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/bookings.jpg)
 
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/logout%20and%20exit.jpg)
 ## logout and exit
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/logout%20and%20exit.jpg)
 
-![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/server%20gets.jpg)
+
 ## server gets (Server running backend)
+![](https://github.com/Tejesh-JP/Presidio_Console-Based_Flight-Ticket-Booking-Application/blob/main/asserts/images/server%20gets.jpg)
+
 
