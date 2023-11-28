@@ -17,7 +17,8 @@ class Command(BaseCommand):
             self.stdout.write("2. Log In")
             self.stdout.write("3. Search Flight")
             self.stdout.write("4. Book Ticket")
-            self.stdout.write("5. Exit")
+            self.stdout.write("5. Admin Login")
+            self.stdout.write("6. Exit")
 
             choice = input("Enter your choice (1-5): ")
 
@@ -30,6 +31,8 @@ class Command(BaseCommand):
             elif choice == '4':
                 self.book_ticket()
             elif choice == '5':
+                self.admin_login()
+            elif choice == '6':
                 break
             else:
                 self.stdout.write(self.style.ERROR('Invalid choice. Please enter a number between 1 and 5.'))
